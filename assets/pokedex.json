@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Bulbasaur",
+      "type": ["Planta, Veneno"]
+    },
+    {
+      "name": "Ivysaul",
+      "type": ["Planta, Veneno"]
+    },
+    {
+      "name": "Venusaur",
+      "type": ["Planta, Veneno"]
+    },
+    {
+      "name": "Charmander",
+      "type": ["Fuego"]
+    },
+    {
+      "name": "Charmeleon",
+      "type": ["Fuego"]
+    },
+    {
+      "name": "Charizar",
+      "type": ["Fuego, Volador"]
+    },
+    {
+      "name": "Squirtle",
+      "type": ["Agua"]
+    },
+    {
+      "name": "Wartortle",
+      "type": ["Agua"]
+    },
+    {
+      "name": "Blastoise",
+      "type": ["Agua"]
+    }
+  ]
